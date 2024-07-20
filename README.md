@@ -30,28 +30,24 @@ The case study given by Ellty.
 
 # See Live
 
-This app is live on: https://ellty-case-study.vercel.app/
+This app is live on: https://ellty-case-study-2.vercel.app/
+
+<br>
+
+# Environmental Variables
+
+<li><strong>POSTGRES_URL</strong>: PostgreSQL connection string </li>
 
 <br>
 
 # Running the app on local machine
 
-<h2><strong>1. Install dependencies</strong></h2>
 <pre class="notranslate">
   <code>
-    $ git clone https://github.com/Gneissy/ellty-case-study
-    $ cd ellty-case-study
+    $ git clone https://github.com/Gneissy/ellty-study-2
+    $ cd ellty-study-2
     $ npm install
-  </code>
-</pre>
-
-<br>
-
-<h2><strong>2. Start the app</strong></h2>
-<h5>In the terminal:</h5>
-<pre class="notranslate">
-  <code>
-    $ cd ellty-case-study
     $ npm run dev
+
   </code>
 </pre>
